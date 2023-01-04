@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="516aae10-b086-4dc4-8b22-48b4264ed3a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/static/polls/images/dove.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/images/noel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/static/polls/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/otaviomatoso/PycharmProjects/mysite&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/Users/otaviomatoso/PycharmProjects/mysite/templates/admin"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/polls/static/polls/images" />
     </key>
@@ -81,7 +88,8 @@
       <workItem from="1672506378302" duration="979000" />
       <workItem from="1672511266714" duration="28842000" />
       <workItem from="1672705193725" duration="4359000" />
-      <workItem from="1672749593724" duration="1643000" />
+      <workItem from="1672749593724" duration="2427000" />
+      <workItem from="1672789476498" duration="5111000" />
     </task>
     <servers />
   </component>
