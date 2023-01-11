@@ -10,7 +10,7 @@ import json
 
 class ResultsView(View):
 
-    def post(self, request, *args, **kwargs):
+    def get(self, request, *args, **kwargs):
         question_id = kwargs.get('pk')
         question = get_object_or_404(Question, pk=question_id)
         choices = question.choice_set.all()
