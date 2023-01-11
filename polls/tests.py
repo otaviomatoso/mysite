@@ -2,7 +2,8 @@ import datetime
 from django.test import TestCase
 from django.urls import reverse
 from django.utils import timezone
-from .models import Question
+from polls.models.question import Question
+
 
 # Create your tests here.
 class QuestionModelTests(TestCase):
